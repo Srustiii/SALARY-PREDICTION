@@ -1,7 +1,0 @@
-streamlit
-numpy
-joblib
-scikit-learn
-pillow
-matplotlib
-
